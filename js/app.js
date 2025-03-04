@@ -1,5 +1,4 @@
-console.log('Ti amo Margherita')
-console.log('Ciao Vincenzo')
+
 
 
 const button = document.getElementById('btn')
